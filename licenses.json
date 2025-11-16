@@ -1,0 +1,22 @@
+{
+  "LIFE-AAAA-BBBB": {
+    "type": "lifetime",
+    "activated": false,
+    "activatedAt": null
+  },
+  "DAY-1111-2222": {
+    "type": "day",
+    "activated": false,
+    "activatedAt": null
+  },
+  "WEEK-3333-4444": {
+    "type": "week",
+    "activated": false,
+    "activatedAt": null
+  },
+  "MONTH-5555-6666": {
+    "type": "month",
+    "activated": false,
+    "activatedAt": null
+  }
+}
