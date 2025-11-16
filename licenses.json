@@ -1,5 +1,47 @@
-[
-  { "license_key": "DAY-0001", "type":"day", "expires":"2025-11-20T23:59:59Z" },
-  { "license_key": "WEEK-0002", "type":"week", "expires":"2025-11-23T23:59:59Z" },
-  { "license_key": "LIFETIME-897898923", "type":"lifetime" }
-]
+{
+  "licenses": [
+    {
+      "id": "29ffff62-06d8-4a58-80a0-f2c18c4e3f12",
+      "type": "1d",
+      "used": false,
+      "deviceId": null,
+      "expires": null
+    },
+    {
+      "id": "a1b2c3d4-5678-9abc-def0-1234567890ab",
+      "type": "1w",
+      "used": false,
+      "deviceId": null,
+      "expires": null
+    },
+    {
+      "id": "f0e1d2c3-b4a5-6789-0abc-def123456789",
+      "type": "1m",
+      "used": false,
+      "deviceId": null,
+      "expires": null
+    },
+    {
+      "id": "deadbeef-1234-5678-90ab-cdef12345678",
+      "type": "lifetime",
+      "used": false,
+      "deviceId": null,
+      "expires": null
+    },
+    {
+      "id": "abcd1234-5678-90ef-abcd-1234567890ef",
+      "type": "1w",
+      "used": false,
+      "deviceId": null,
+      "expires": null
+    },
+    {
+      "id": "feedface-4321-8765-ba09-efcd12345678",
+      "type": "1m",
+      "used": false,
+      "deviceId": null,
+      "expires": null
+    }
+  ]
+}
+
