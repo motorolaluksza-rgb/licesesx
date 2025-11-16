@@ -6,6 +6,14 @@
       "type": "lifetime",
       "used": true,
       "expires": "2125-11-16T23:59:59Z"
+    }
+    {
+      "id": "1DAY-2XFF-FFX2-06D2",
+      "deviceId": "DEVICE-ZEPAC2S7MS",
+      "type": "1DAY",
+      "used": true,
+      "expires": "2025-11-17T12:00:00Z"
+      "discordId": "1239232108753326150 - mlody_skun"
     },
     {
       "id": "1DAY-A1B2-C3D4-E5F6",
