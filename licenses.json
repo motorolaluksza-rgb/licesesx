@@ -1,48 +1,25 @@
 {
   "licenses": [
     {
-      "id": "29ffff62-06d8-4a58-80a0-f2c18c4e3f12",
-      "type": "1d",
-      "used": false,
-      "deviceId": null,
-      "expires": null
-    },
-    {
-      "id": "a1b2c3d4-5678-9abc-def0-1234567890ab",
-      "type": "1w",
-      "used": false,
-      "deviceId": null,
-      "expires": null
-    },
-    {
-      "id": "f0e1d2c3-b4a5-6789-0abc-def123456789",
-      "type": "1m",
-      "used": false,
-      "deviceId": null,
-      "expires": null
-    },
-    {
-      "id": "deadbeef-1234-5678-90ab-cdef12345678",
+      "id": "LIFE-29FF-FF62-06D8",
+      "deviceId": "29ffff62-06d8-4a58-80a0-f2c18c4e3f12",
       "type": "lifetime",
-      "used": false,
-      "deviceId": null,
-      "expires": null
+      "used": true,
+      "expires": "2125-11-16T23:59:59Z"
     },
     {
-      "id": "abcd1234-5678-90ef-abcd-1234567890ef",
+      "id": "1DAY-A1B2-C3D4-E5F6",
+      "deviceId": "DEVICE456DEF",
+      "type": "1d",
+      "used": true,
+      "expires": "2025-11-17T12:00:00Z"
+    },
+    {
+      "id": "1WEE-A7B8-C9D0-E1F2",
+      "deviceId": "DEVICE789GHI",
       "type": "1w",
-      "used": false,
-      "deviceId": null,
-      "expires": null
-    },
-    {
-      "id": "feedface-4321-8765-ba09-efcd12345678",
-      "type": "1m",
-      "used": false,
-      "deviceId": null,
-      "expires": null
+      "used": true,
+      "expires": "2025-11-23T12:00:00Z"
     }
   ]
 }
-
-
