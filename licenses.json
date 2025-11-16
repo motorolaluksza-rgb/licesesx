@@ -21,5 +21,12 @@
       "used": true,
       "expires": "2025-11-23T12:00:00Z"
     }
+     {
+      "id": "1WEE-A7B8-C9D0-E1F2",
+      "deviceId": "DEVICE-ZEPAC2S7MS",
+      "type": "ONE WEEK",
+      "used": true,
+      "expires": "2025-11-23T12:00:00Z"
+    }
   ]
 }
