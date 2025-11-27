@@ -1,32 +1,4 @@
 {
-  "licenses": [
-    {
-      "id": "LIFE-29FF-FF62-06D8",
-      "deviceId": "DEVICE-NGDF8QNJLP",
-      "type": "lifetime",
-      "used": true,
-      "expires": "2125-11-16T23:59:59Z"
-    }
-    {
-      "id": "1DAY-2XFF-FFX2-06D2",
-      "deviceId": "DEVICE-KL4NACCEAM",
-      "type": "1DAY",
-      "used": true,
-      "expires": "2025-11-17T12:00:00Z"
-    },
-    {
-      "id": "1DAY-A1B2-C3D4-E5F6",
-      "deviceId": "DEVICE-VERE49OSN1",
-      "type": "1DAY",
-      "used": true,
-      "expires": "2025-11-17T12:00:00Z"
-    },
-    {
-      "id": "1WEE-B7B8-C9D0-E1F2",
-      "deviceId": "DEVICE-ZEPAC2S7MS",
-      "type": "1w",
-      "used": true,
-      "expires": "2025-11-23T12:00:00Z"
-    }
-  ]
+  "LIFETIME-6783-8767-9879": "2095-12-31",
+  "XYZ-999": "2024-06-30"
 }
